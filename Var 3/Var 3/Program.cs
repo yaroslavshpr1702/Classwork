@@ -3,10 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-//  Шпрыгин Ярослав
-//      10МИ2
-//    Вариант №3
-
 namespace Var_3
 {
     class Program
