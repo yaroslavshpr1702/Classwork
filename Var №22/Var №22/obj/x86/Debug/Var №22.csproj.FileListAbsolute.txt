@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Шпрыгин\Var №22\Var №22\bin\Debug\Var №22.exe
+C:\Users\User\Desktop\Шпрыгин\Var №22\Var №22\bin\Debug\Var №22.pdb
+C:\Users\User\Desktop\Шпрыгин\Var №22\Var №22\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Шпрыгин\Var №22\Var №22\obj\x86\Debug\Var №22.exe
+C:\Users\User\Desktop\Шпрыгин\Var №22\Var №22\obj\x86\Debug\Var №22.pdb
+C:\Users\User\Desktop\Шпрыгин Ярослав\Var №22\Var №22\obj\x86\Debug\Var №22.exe
+C:\Users\User\Desktop\Шпрыгин Ярослав\Var №22\Var №22\obj\x86\Debug\Var №22.pdb
+C:\Users\User\Desktop\Шпрыгин Ярослав\Var №22\Var №22\bin\Debug\Var №22.exe
+C:\Users\User\Desktop\Шпрыгин Ярослав\Var №22\Var №22\bin\Debug\Var №22.pdb
+C:\Users\User\Desktop\Шпрыгин Ярослав\Var №22\Var №22\obj\x86\Debug\ResolveAssemblyReference.cache
